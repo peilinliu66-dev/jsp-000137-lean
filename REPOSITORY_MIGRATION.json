@@ -1,0 +1,15 @@
+{
+  "problem": "JSP-000137",
+  "repository": "peilinliu66-dev/jsp-000137-lean",
+  "original_repository": "https://github.com/peilinliu66-dev/awards",
+  "original_proof_commit": "e2f8a4012d8bc22d4896b6a7150915e06a697faa",
+  "original_source_branch": "proof/jsp137-nondividing-growth",
+  "original_project_directory": "proofs/jsp137",
+  "current_project_directory": ".",
+  "existing_award_pr": "https://github.com/TheJustinSunPrize/awards/pull/4694",
+  "retained_original_branch": "codex/original-proof",
+  "proof_sources_and_dependency_pins_unchanged": true,
+  "existing_build_and_axiom_records_unchanged": true,
+  "documentation_files_updated": [],
+  "migration_date": "2026-10-05"
+}
